@@ -1,1 +1,1 @@
-# Pandas-Matplotlib
+# Pandas+Matplotlib
